@@ -1,0 +1,1 @@
+Figure out how to define mandatory fields in the functions. For example a stop loss price could be implemented as a mandatory field while openin a new position.

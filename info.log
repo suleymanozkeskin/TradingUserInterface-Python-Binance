@@ -1,0 +1,806 @@
+2022-09-26 09:04:15,099  root  INFO :: This message just shows basic information
+2022-09-26 09:04:15,099  root  WARNING :: this message is about something you should pay attention to
+2022-09-26 09:04:15,099  root  ERROR :: This message helps to debug an error that occureed in your program
+2022-09-26 09:04:15,099  root  INFO :: Heelo from the Binance Testnet Connector.
+2022-09-26 09:04:19,107  root  INFO :: this is logedd only if we execute main.py file
+2022-09-26 09:18:27,828  root  INFO :: This is logged in all cases
+2022-09-26 09:37:14,153  root  INFO :: This is logged in all cases
+2022-09-26 09:37:24,546  root  INFO :: This is logged in all cases
+2022-09-26 10:15:56,705  root  INFO :: This is logged in all cases
+2022-09-26 10:20:28,297  root  INFO :: This is logged in all cases
+2022-09-26 10:21:59,332  root  INFO :: This is logged in all cases
+2022-09-26 10:23:29,712  root  INFO :: This is logged in all cases
+2022-09-26 10:24:16,623  root  INFO :: This is logged in all cases
+2022-09-26 10:27:00,050  root  INFO :: This is logged in all cases
+2022-09-26 10:29:28,869  root  INFO :: This is logged in all cases
+2022-09-26 10:30:41,527  root  INFO :: This is logged in all cases
+2022-09-26 13:53:20,042  root  INFO :: This is logged in all cases
+2022-09-26 13:53:20,042  root  INFO :: Binance Futures Client successfully initialized
+2022-09-26 14:23:24,716  root  INFO :: Binance Futures Client successfully initialized
+2022-09-26 14:33:12,001  root  INFO :: Binance Futures Client successfully initialized
+2022-09-26 14:33:45,469  root  INFO :: Binance Futures Client successfully initialized
+2022-09-26 14:34:53,873  root  INFO :: Binance Futures Client successfully initialized
+2022-09-26 14:36:20,768  root  INFO :: Binance Futures Client successfully initialized
+2022-09-26 14:36:28,760  root  INFO :: Binance Futures Client successfully initialized
+2022-09-26 14:37:36,846  root  INFO :: Binance Futures Client successfully initialized
+2022-09-26 14:39:27,538  root  INFO :: Binance Futures Client successfully initialized
+2022-09-26 17:34:59,233  root  INFO :: Binance Futures Client successfully initialized
+2022-09-26 17:35:00,111  root  ERROR :: Error while making GET request to /fapi/v2/balance: {'code': -2014, 'msg': 'API-key format invalid.'} (error code 401)
+2022-09-26 17:36:43,647  root  INFO :: Binance Futures Client successfully initialized
+2022-09-26 17:36:44,457  root  ERROR :: Error while making GET request to /fapi/v2/balance: {'code': -2014, 'msg': 'API-key format invalid.'} (error code 401)
+2022-09-26 17:54:23,431  root  INFO :: Binance Futures Client successfully initialized
+2022-09-26 17:54:56,367  root  INFO :: Binance Futures Client successfully initialized
+2022-09-26 17:55:18,497  root  INFO :: Binance Futures Client successfully initialized
+2022-09-26 17:55:27,278  root  INFO :: Binance Futures Client successfully initialized
+2022-09-26 17:56:15,896  root  INFO :: Binance Futures Client successfully initialized
+2022-09-26 17:56:16,230  root  ERROR :: Error while making GET request to /fapi/v2/balance: {'code': -2014, 'msg': 'API-key format invalid.'} (error code 401)
+2022-09-26 17:56:39,919  root  INFO :: Binance Futures Client successfully initialized
+2022-09-26 17:56:40,295  root  ERROR :: Error while making GET request to /fapi/v2/balance: {'code': -2014, 'msg': 'API-key format invalid.'} (error code 401)
+2022-09-26 17:56:52,148  root  INFO :: Binance Futures Client successfully initialized
+2022-09-26 17:56:52,891  root  ERROR :: Error while making GET request to /fapi/v2/balance: {'code': -2014, 'msg': 'API-key format invalid.'} (error code 401)
+2022-09-26 18:10:46,609  root  INFO :: Binance Futures Client successfully initialized
+2022-09-26 18:10:47,557  root  ERROR :: Error while making GET request to /fapi/v2/balance: {'code': -2014, 'msg': 'API-key format invalid.'} (error code 401)
+2022-09-26 18:13:16,099  root  INFO :: Binance Futures Client successfully initialized
+2022-09-26 18:13:16,888  root  ERROR :: Error while making GET request to /fapi/v1/account: {'code': -2014, 'msg': 'API-key format invalid.'} (error code 401)
+2022-09-26 18:14:26,069  root  INFO :: Binance Futures Client successfully initialized
+2022-09-26 18:14:26,899  root  ERROR :: Error while making GET request to /fapi/v2/account: {'code': -2014, 'msg': 'API-key format invalid.'} (error code 401)
+2022-09-26 18:19:02,268  root  INFO :: Binance Futures Client successfully initialized
+2022-09-26 18:19:03,044  root  ERROR :: Error while making GET request to /fapi/v2/account: {'code': -2014, 'msg': 'API-key format invalid.'} (error code 401)
+2022-09-26 18:19:18,426  root  INFO :: Binance Futures Client successfully initialized
+2022-09-26 18:19:19,163  root  ERROR :: Error while making GET request to /fapi/v2/account: {'code': -2014, 'msg': 'API-key format invalid.'} (error code 401)
+2022-09-26 18:19:51,588  root  INFO :: Binance Futures Client successfully initialized
+2022-09-26 18:19:52,328  root  ERROR :: Error while making GET request to /fapi/v2/account: {'code': -2014, 'msg': 'API-key format invalid.'} (error code 401)
+2022-09-26 18:22:54,483  root  INFO :: Binance Futures Client successfully initialized
+2022-09-26 18:22:55,278  root  ERROR :: Error while making GET request to /fapi/v2/account: {'code': -2014, 'msg': 'API-key format invalid.'} (error code 401)
+2022-09-26 18:28:51,117  root  INFO :: Binance Futures Client successfully initialized
+2022-09-26 18:29:02,869  root  INFO :: Binance Futures Client successfully initialized
+2022-09-26 18:29:31,953  root  INFO :: Binance Futures Client successfully initialized
+2022-09-26 18:29:32,791  root  ERROR :: Error while making GET request to /fapi/v2/account: {'code': -2014, 'msg': 'API-key format invalid.'} (error code 401)
+2022-09-27 03:36:29,248  root  INFO :: Binance Futures Client successfully initialized
+2022-09-27 03:36:30,021  root  ERROR :: Error while making GET request to /fapi/v2/account: {'code': -2014, 'msg': 'API-key format invalid.'} (error code 401)
+2022-09-27 03:41:18,479  root  INFO :: Binance Futures Client successfully initialized
+2022-09-27 03:49:20,149  root  INFO :: Binance Futures Client successfully initialized
+2022-09-27 04:04:49,683  root  INFO :: Binance Futures Client successfully initialized
+2022-09-27 04:05:19,819  root  INFO :: Binance Futures Client successfully initialized
+2022-09-27 04:06:04,482  root  INFO :: Binance Futures Client successfully initialized
+2022-09-27 04:06:53,747  root  INFO :: Binance Futures Client successfully initialized
+2022-09-27 04:10:21,751  root  INFO :: Binance Futures Client successfully initialized
+2022-09-27 05:12:20,438  root  INFO :: Binance Futures Client successfully initialized
+2022-09-27 05:16:40,152  root  INFO :: Binance Futures Client successfully initialized
+2022-09-27 05:17:21,553  root  INFO :: Binance Futures Client successfully initialized
+2022-09-27 05:30:16,843  root  INFO :: Binance Futures Client successfully initialized
+2022-09-27 05:31:54,184  root  INFO :: Binance Futures Client successfully initialized
+2022-09-27 05:33:17,082  root  INFO :: Binance Futures Client successfully initialized
+2022-09-27 05:33:37,282  root  INFO :: Binance Futures Client successfully initialized
+2022-09-27 05:35:15,065  root  INFO :: Binance Futures Client successfully initialized
+2022-09-27 05:35:15,835  root  ERROR :: Error while making GET request to /fapi/v1/openOrders: {'code': -1102, 'msg': "Mandatory parameter 'signature' was not sent, was empty/null, or malformed."} (error code 400)
+2022-09-27 05:35:42,704  root  INFO :: Binance Futures Client successfully initialized
+2022-09-27 05:37:40,269  root  INFO :: Binance Futures Client successfully initialized
+2022-09-27 05:37:53,304  root  INFO :: Binance Futures Client successfully initialized
+2022-09-27 05:41:31,411  root  INFO :: Binance Futures Client successfully initialized
+2022-09-27 05:42:15,106  root  INFO :: Binance Futures Client successfully initialized
+2022-09-27 05:42:31,351  root  INFO :: Binance Futures Client successfully initialized
+2022-09-27 05:42:40,358  root  INFO :: Binance Futures Client successfully initialized
+2022-09-27 05:42:41,267  root  ERROR :: Error while making GET request to /fapi/v1/allOrders: {'code': -1102, 'msg': "Mandatory parameter 'signature' was not sent, was empty/null, or malformed."} (error code 400)
+2022-09-27 05:43:26,039  root  INFO :: Binance Futures Client successfully initialized
+2022-09-27 05:43:26,783  root  ERROR :: Error while making GET request to /fapi/v1/allOrders: {'code': -1102, 'msg': "Mandatory parameter 'signature' was not sent, was empty/null, or malformed."} (error code 400)
+2022-09-27 05:53:25,797  root  INFO :: Binance Futures Client successfully initialized
+2022-09-27 05:53:36,477  root  INFO :: Binance Futures Client successfully initialized
+2022-09-27 05:53:36,792  root  ERROR :: Error while making POST request to /fapi/v1/order: {'code': -1022, 'msg': 'Signature for this request is not valid.'} (error code 400)
+2022-09-27 05:54:43,832  root  INFO :: Binance Futures Client successfully initialized
+2022-09-27 05:54:44,656  root  ERROR :: Error while making POST request to /fapi/v1/order: {'code': -1022, 'msg': 'Signature for this request is not valid.'} (error code 400)
+2022-09-27 06:03:34,663  root  INFO :: Binance Futures Client successfully initialized
+2022-09-27 06:03:35,470  root  ERROR :: Error while making POST request to /fapi/v1/order: {'code': -1022, 'msg': 'Signature for this request is not valid.'} (error code 400)
+2022-09-27 06:05:43,975  root  INFO :: Binance Futures Client successfully initialized
+2022-09-27 06:05:44,757  root  ERROR :: Error while making POST request to /fapi/v1/order: {'code': -1022, 'msg': 'Signature for this request is not valid.'} (error code 400)
+2022-09-27 06:06:38,040  root  INFO :: Binance Futures Client successfully initialized
+2022-09-27 06:07:23,092  root  INFO :: Binance Futures Client successfully initialized
+2022-09-27 06:07:31,285  root  INFO :: Binance Futures Client successfully initialized
+2022-09-27 06:22:34,216  root  INFO :: Binance Futures Client successfully initialized
+2022-09-27 16:44:02,576  root  INFO :: Binance Futures Client successfully initialized
+2022-09-27 16:44:03,405  root  ERROR :: Error while making POST request to /fapi/v1/order: {'code': -4016, 'msg': "Limit price can't be higher than 20854.35"} (error code 400)
+2022-09-27 16:44:21,352  root  INFO :: Binance Futures Client successfully initialized
+2022-09-27 16:45:41,051  root  INFO :: Binance Futures Client successfully initialized
+2022-09-27 16:46:11,311  root  INFO :: Binance Futures Client successfully initialized
+2022-09-27 17:03:30,999  root  INFO :: Binance Futures Client successfully initialized
+2022-09-27 17:04:07,816  root  INFO :: Binance Futures Client successfully initialized
+2022-09-27 17:05:15,617  root  INFO :: Binance Futures Client successfully initialized
+2022-09-27 17:05:55,097  root  INFO :: Binance Futures Client successfully initialized
+2022-09-27 17:05:56,599  root  ERROR :: Error while making DELETE request to /fapi/v1/allOpenOrders: {'code': -1102, 'msg': "Mandatory parameter 'signature' was not sent, was empty/null, or malformed."} (error code 400)
+2022-09-27 17:08:25,083  root  INFO :: Binance Futures Client successfully initialized
+2022-10-04 05:34:33,664  root  INFO :: Binance Futures Client successfully initialized
+2022-10-04 05:34:39,745  root  INFO :: Binance Futures Client successfully initialized
+2022-10-04 05:35:03,308  root  INFO :: Binance Futures Client successfully initialized
+2022-10-04 05:36:31,251  root  INFO :: Binance Futures Client successfully initialized
+2022-10-04 05:37:33,520  root  INFO :: Binance Futures Client successfully initialized
+2022-10-04 05:38:06,861  root  INFO :: Binance Futures Client successfully initialized
+2022-10-04 05:40:39,706  root  INFO :: Binance Futures Client successfully initialized
+2022-10-04 05:53:52,688  root  INFO :: Binance Futures Client successfully initialized
+2022-10-04 05:54:59,620  root  INFO :: Binance Futures Client successfully initialized
+2022-10-04 06:29:18,307  root  INFO :: Binance Futures Client successfully initialized
+2022-10-04 06:29:28,244  root  INFO :: Binance Futures Client successfully initialized
+2022-10-04 06:32:32,143  root  INFO :: Binance Futures Client successfully initialized
+2022-10-04 13:43:27,346  root  INFO :: Binance Futures Client successfully initialized
+2022-10-04 13:44:03,553  root  INFO :: Binance Futures Client successfully initialized
+2022-10-05 03:36:42,455  root  INFO :: Binance Futures Client successfully initialized
+2022-10-05 03:39:43,655  root  INFO :: Binance Futures Client successfully initialized
+2022-10-05 03:42:31,756  root  INFO :: Binance Futures Client successfully initialized
+2022-10-05 03:43:49,943  root  INFO :: Binance Futures Client successfully initialized
+2022-10-05 03:46:02,916  root  INFO :: Binance Futures Client successfully initialized
+2022-10-05 03:46:28,665  root  INFO :: Binance Futures Client successfully initialized
+2022-10-05 03:46:50,068  root  INFO :: Binance Futures Client successfully initialized
+2022-10-05 03:47:06,315  root  INFO :: Binance Futures Client successfully initialized
+2022-10-05 03:47:07,728  root  ERROR :: Error while making GET request to /fapi/v1/allOrders: {'code': -1102, 'msg': "Mandatory parameter 'signature' was not sent, was empty/null, or malformed."} (error code 400)
+2022-10-05 03:51:23,214  root  INFO :: Binance Futures Client successfully initialized
+2022-10-05 03:51:24,038  root  ERROR :: Error while making GET request to /fapi/v1/allOrders: {'code': -1102, 'msg': "Mandatory parameter 'signature' was not sent, was empty/null, or malformed."} (error code 400)
+2022-10-05 03:51:38,461  root  INFO :: Binance Futures Client successfully initialized
+2022-10-05 04:01:57,545  root  INFO :: Binance Futures Client successfully initialized
+2022-10-05 04:01:58,503  root  ERROR :: Error while making GET request to /fapi/v1/allOrders: {'code': -1102, 'msg': "Mandatory parameter 'signature' was not sent, was empty/null, or malformed."} (error code 400)
+2022-10-05 04:02:26,398  root  INFO :: Binance Futures Client successfully initialized
+2022-10-05 04:02:27,368  root  ERROR :: Error while making GET request to /fapi/v1/allOrders: {'code': -1102, 'msg': "Mandatory parameter 'signature' was not sent, was empty/null, or malformed."} (error code 400)
+2022-10-05 04:02:42,183  root  INFO :: Binance Futures Client successfully initialized
+2022-10-05 04:02:43,325  root  ERROR :: Error while making GET request to /fapi/v1/allOrders: {'code': -1102, 'msg': "Mandatory parameter 'signature' was not sent, was empty/null, or malformed."} (error code 400)
+2022-10-05 04:04:58,056  root  INFO :: Binance Futures Client successfully initialized
+2022-10-05 04:04:58,813  root  ERROR :: Error while making GET request to /fapi/v1/allOrders: {'code': -1102, 'msg': "Mandatory parameter 'signature' was not sent, was empty/null, or malformed."} (error code 400)
+2022-10-05 04:06:06,704  root  INFO :: Binance Futures Client successfully initialized
+2022-10-05 04:06:07,499  root  ERROR :: Error while making GET request to /fapi/v1/allOrders: {'code': -1102, 'msg': "Mandatory parameter 'signature' was not sent, was empty/null, or malformed."} (error code 400)
+2022-10-05 04:45:07,206  root  INFO :: Binance Futures Client successfully initialized
+2022-10-05 04:45:20,815  root  INFO :: Binance Futures Client successfully initialized
+2022-10-05 04:46:01,492  root  INFO :: Binance Futures Client successfully initialized
+2022-10-05 04:47:55,971  root  INFO :: Binance Futures Client successfully initialized
+2022-10-05 04:47:56,721  root  ERROR :: Error while making GET request to /fapi/v1/order: {'code': -1102, 'msg': "Mandatory parameter 'signature' was not sent, was empty/null, or malformed."} (error code 400)
+2022-10-05 04:48:30,319  root  INFO :: Binance Futures Client successfully initialized
+2022-10-05 04:48:31,090  root  ERROR :: Error while making GET request to /fapi/v1/order: {'code': -1102, 'msg': "Mandatory parameter 'signature' was not sent, was empty/null, or malformed."} (error code 400)
+2022-10-05 04:48:41,048  root  INFO :: Binance Futures Client successfully initialized
+2022-10-05 05:38:07,534  root  INFO :: Binance Futures Client successfully initialized
+2022-10-05 05:39:11,544  root  INFO :: Binance Futures Client successfully initialized
+2022-10-05 05:42:58,724  root  INFO :: Binance Futures Client successfully initialized
+2022-10-05 05:43:03,466  root  INFO :: Binance Futures Client successfully initialized
+2022-10-05 06:39:04,815  root  INFO :: Binance Futures Client successfully initialized
+2022-10-05 06:53:23,822  root  INFO :: Binance Futures Client successfully initialized
+2022-10-05 06:55:40,766  root  INFO :: Binance Futures Client successfully initialized
+2022-10-05 06:55:47,925  root  INFO :: Binance Futures Client successfully initialized
+2022-10-05 07:07:19,832  root  INFO :: Binance Futures Client successfully initialized
+2022-10-05 07:07:49,366  root  INFO :: Binance Futures Client successfully initialized
+2022-10-05 07:14:02,586  root  INFO :: Binance Futures Client successfully initialized
+2022-10-05 07:14:13,011  root  INFO :: Binance Futures Client successfully initialized
+2022-10-05 07:15:34,123  root  INFO :: Binance Futures Client successfully initialized
+2022-10-05 07:30:05,827  root  INFO :: Binance Futures Client successfully initialized
+2022-10-05 07:30:18,828  root  INFO :: Binance Futures Client successfully initialized
+2022-10-05 07:32:00,536  root  INFO :: Binance Futures Client successfully initialized
+2022-10-05 07:34:56,904  root  INFO :: Binance Futures Client successfully initialized
+2022-10-05 07:35:44,574  root  INFO :: Binance Futures Client successfully initialized
+2022-10-05 07:36:07,555  root  INFO :: Binance Futures Client successfully initialized
+2022-10-05 07:36:37,431  root  INFO :: Binance Futures Client successfully initialized
+2022-10-05 07:37:04,468  root  INFO :: Binance Futures Client successfully initialized
+2022-10-05 07:38:32,611  root  INFO :: Binance Futures Client successfully initialized
+2022-10-05 07:39:01,289  root  INFO :: Binance Futures Client successfully initialized
+2022-10-05 07:39:02,057  root  ERROR :: Error while making GET request to /fapi/v1/allForceOrders: {'code': 400, 'msg': 'The endpoint has been out of maintenance'} (error code 400)
+2022-10-05 15:33:06,771  root  INFO :: Binance Futures Client successfully initialized
+2022-10-05 15:33:07,255  root  ERROR :: Error while making GET request to /fapi/v1/allForceOrders: {'code': 400, 'msg': 'The endpoint has been out of maintenance'} (error code 400)
+2022-10-05 15:37:20,927  root  INFO :: Binance Futures Client successfully initialized
+2022-10-05 15:37:21,564  root  ERROR :: Error while making GET request to /fapi/v1/allForceOrders: {'code': 400, 'msg': 'The endpoint has been out of maintenance'} (error code 400)
+2022-10-05 15:38:08,782  root  INFO :: Binance Futures Client successfully initialized
+2022-10-05 15:39:24,258  root  INFO :: Binance Futures Client successfully initialized
+2022-10-05 15:41:32,522  root  INFO :: Binance Futures Client successfully initialized
+2022-10-05 15:42:00,817  root  INFO :: Binance Futures Client successfully initialized
+2022-10-05 15:42:42,528  root  INFO :: Binance Futures Client successfully initialized
+2022-10-05 15:43:01,889  root  INFO :: Binance Futures Client successfully initialized
+2022-10-05 15:44:19,373  root  INFO :: Binance Futures Client successfully initialized
+2022-10-05 15:44:20,483  root  ERROR :: Error while making GET request to /fapi/v1/forceOrders: {'code': -1102, 'msg': "Mandatory parameter 'timestamp' was not sent, was empty/null, or malformed."} (error code 400)
+2022-10-05 16:07:42,634  root  INFO :: Binance Futures Client successfully initialized
+2022-10-05 16:07:56,101  root  INFO :: Binance Futures Client successfully initialized
+2022-10-05 16:07:57,139  root  ERROR :: Error while making GET request to /fapi/v1/forceOrders: {'code': -1102, 'msg': "Mandatory parameter 'signature' was not sent, was empty/null, or malformed."} (error code 400)
+2022-10-05 16:08:18,360  root  INFO :: Binance Futures Client successfully initialized
+2022-10-05 16:08:19,136  root  ERROR :: Error while making GET request to /fapi/v1/forceOrders: {'code': -1021, 'msg': 'Timestamp for this request is outside of the recvWindow.'} (error code 400)
+2022-10-05 16:15:12,583  root  INFO :: Binance Futures Client successfully initialized
+2022-10-05 17:09:38,135  root  INFO :: Binance Futures Client successfully initialized
+2022-10-05 17:09:53,038  root  INFO :: Binance Futures Client successfully initialized
+2022-10-05 17:48:06,701  root  INFO :: Binance Futures Client successfully initialized
+2022-10-05 17:58:59,061  root  INFO :: Binance Futures Client successfully initialized
+2022-10-05 18:44:31,081  root  INFO :: Binance Futures Client successfully initialized
+2022-10-05 18:44:52,911  root  INFO :: Binance Futures Client successfully initialized
+2022-10-05 18:46:15,853  root  INFO :: Binance Futures Client successfully initialized
+2022-10-05 18:46:45,055  root  INFO :: Binance Futures Client successfully initialized
+2022-10-05 18:46:46,706  root  INFO :: Binance connection opened
+2022-10-05 18:46:46,707  websocket  WARNING :: websocket connected
+2022-10-05 18:46:46,707  websocket  ERROR :: Connection to remote host was lost. - goodbye
+2022-10-05 18:46:46,707  root  ERROR :: Binance connection error: Connection to remote host was lost.
+2022-10-05 18:46:46,707  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_close of <binance_futures.BinanceFuturesClient object at 0x7f9d9e47ac10>>: on_close() takes 2 positional arguments but 4 were given
+2022-10-05 18:46:46,707  root  ERROR :: Binance connection error: on_close() takes 2 positional arguments but 4 were given
+2022-10-05 18:55:21,931  root  INFO :: Binance Futures Client successfully initialized
+2022-10-05 18:55:23,342  root  INFO :: Binance connection opened
+2022-10-05 18:55:23,343  websocket  WARNING :: websocket connected
+2022-10-05 18:55:23,343  websocket  ERROR :: Connection to remote host was lost. - goodbye
+2022-10-05 18:55:23,344  root  ERROR :: Binance connection error: Connection to remote host was lost.
+2022-10-05 18:55:23,344  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_close of <binance_futures.BinanceFuturesClient object at 0x7f5b9b190c10>>: on_close() takes 2 positional arguments but 4 were given
+2022-10-05 18:55:23,345  root  ERROR :: Binance connection error: on_close() takes 2 positional arguments but 4 were given
+2022-10-05 19:04:55,707  root  INFO :: Binance Futures Client successfully initialized
+2022-10-05 19:04:57,135  root  INFO :: Binance connection opened
+2022-10-05 19:04:57,135  websocket  WARNING :: websocket connected
+2022-10-05 19:04:57,136  websocket  ERROR :: Connection to remote host was lost. - goodbye
+2022-10-05 19:04:57,136  root  ERROR :: Binance connection error: Connection to remote host was lost.
+2022-10-05 19:04:57,136  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_close of <binance_futures.BinanceFuturesClient object at 0x7f1133d4ac70>>: on_close() takes 2 positional arguments but 4 were given
+2022-10-05 19:04:57,136  root  ERROR :: Binance connection error: on_close() takes 2 positional arguments but 4 were given
+2022-10-05 19:05:05,324  root  INFO :: Binance Futures Client successfully initialized
+2022-10-05 19:05:06,811  root  INFO :: Binance connection opened
+2022-10-05 19:05:06,812  websocket  WARNING :: websocket connected
+2022-10-05 19:05:06,813  websocket  ERROR :: Connection to remote host was lost. - goodbye
+2022-10-05 19:05:06,813  root  ERROR :: Binance connection error: Connection to remote host was lost.
+2022-10-05 19:05:06,814  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_close of <binance_futures.BinanceFuturesClient object at 0x7ffabed67c10>>: on_close() takes 2 positional arguments but 4 were given
+2022-10-05 19:05:06,814  root  ERROR :: Binance connection error: on_close() takes 2 positional arguments but 4 were given
+2022-10-06 06:59:37,377  root  INFO :: Binance Futures Client successfully initialized
+2022-10-06 06:59:38,972  root  INFO :: Binance connection opened
+2022-10-06 06:59:38,973  websocket  WARNING :: websocket connected
+2022-10-06 10:18:06,043  root  INFO :: Binance Futures Client successfully initialized
+2022-10-06 10:18:07,471  root  INFO :: Binance connection opened
+2022-10-06 10:18:07,472  websocket  WARNING :: websocket connected
+2022-10-06 10:18:54,757  root  INFO :: Binance Futures Client successfully initialized
+2022-10-06 10:18:56,302  root  INFO :: Binance connection opened
+2022-10-06 10:18:56,302  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_open of <binance_futures.BinanceFuturesClient object at 0x7f1ce6bf78e0>>: subscribe_channel() missing 1 required positional argument: 'symbol'
+2022-10-06 10:18:56,302  root  ERROR :: Binance connection error: subscribe_channel() missing 1 required positional argument: 'symbol'
+2022-10-06 10:18:56,303  websocket  WARNING :: websocket connected
+2022-10-06 10:19:53,241  root  INFO :: Binance Futures Client successfully initialized
+2022-10-06 10:19:54,546  root  INFO :: Binance connection opened
+2022-10-06 10:19:54,547  websocket  WARNING :: websocket connected
+2022-10-06 10:24:46,415  root  INFO :: Binance Futures Client successfully initialized
+2022-10-06 10:24:48,155  root  INFO :: Binance connection opened
+2022-10-06 10:24:48,156  websocket  WARNING :: websocket connected
+2022-10-06 10:48:26,326  root  INFO :: Binance Futures Client successfully initialized
+2022-10-06 10:48:27,763  root  INFO :: Binance connection opened
+2022-10-06 10:48:27,763  websocket  WARNING :: websocket connected
+2022-10-06 10:48:28,770  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:48:28,770  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:48:28,784  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:48:28,784  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:48:28,785  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:48:28,785  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:48:29,910  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:48:29,910  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:48:30,769  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:48:30,770  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:48:30,770  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:48:30,771  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:48:31,210  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:48:31,210  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:48:31,775  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:48:31,776  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:48:31,777  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:48:31,777  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:48:31,779  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:48:31,779  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:48:32,780  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:48:32,780  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:48:32,782  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:48:32,782  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:48:32,813  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:48:32,813  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:48:33,786  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:48:33,787  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:48:34,207  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:48:34,208  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:48:34,209  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:48:34,209  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:48:34,211  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:48:34,211  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:48:34,511  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:48:34,511  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:48:34,817  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:48:34,817  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:48:35,231  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:48:35,231  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:48:35,234  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:48:35,235  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:48:35,263  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:48:35,264  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:48:36,149  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:48:36,149  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:48:36,151  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:48:36,151  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:48:36,867  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:48:36,867  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:48:36,868  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:48:36,868  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:48:36,869  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:48:36,869  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:48:37,807  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:48:37,807  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:48:38,809  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:48:38,810  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:48:39,536  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:48:39,536  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:48:39,553  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:48:39,553  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:48:39,928  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:48:39,929  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:48:40,345  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:48:40,346  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:48:40,926  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:48:40,927  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:48:41,168  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:48:41,169  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:48:41,170  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:48:41,170  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:48:41,482  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:48:41,483  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:48:41,484  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:48:41,484  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:48:41,559  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:48:41,559  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:48:41,948  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:48:41,949  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:48:41,949  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:48:41,950  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:48:43,019  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:48:43,019  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:48:43,020  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:48:43,020  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:48:43,034  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:48:43,035  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:48:43,420  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:48:43,420  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:48:44,103  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:48:44,103  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:48:45,020  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:48:45,020  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:48:45,495  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:48:45,496  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:48:45,508  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:48:45,508  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:48:46,292  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:48:46,292  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:48:46,895  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:48:46,895  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:48:47,156  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:48:47,156  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:48:47,407  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:48:47,407  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:48:49,263  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:48:49,263  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:48:49,866  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:48:49,867  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:48:55,552  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:48:55,555  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:48:55,572  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:48:55,572  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:48:55,798  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:48:55,798  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:48:55,813  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:48:55,813  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:48:56,023  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:48:56,023  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:48:56,059  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:48:56,059  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:48:57,720  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:48:57,720  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:48:57,946  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:48:57,946  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:48:57,989  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:48:57,989  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:48:58,150  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:48:58,151  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:48:58,151  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:48:58,151  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:48:58,236  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:48:58,236  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:48:58,610  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:48:58,610  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:48:59,158  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:48:59,158  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:48:59,174  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:48:59,174  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:48:59,174  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:48:59,174  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:00,236  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:00,237  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:00,237  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:00,237  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:00,237  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:00,237  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:00,543  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:00,543  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:00,609  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:00,609  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:00,821  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:00,821  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:00,835  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:00,835  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:01,072  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:01,072  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:01,087  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:01,087  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:01,232  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:01,232  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:05,226  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:05,226  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:07,545  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:07,545  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:08,281  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:08,281  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:08,316  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:08,316  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:08,593  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:08,593  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:08,793  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:08,793  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:08,849  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:08,849  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:08,921  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:08,921  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:10,822  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:10,822  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:11,145  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:11,145  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:11,248  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:11,248  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:11,424  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:11,424  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:11,469  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:11,469  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:11,709  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:11,709  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:11,966  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:11,966  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:12,235  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:12,235  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:15,654  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:15,655  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:16,372  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:16,372  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:17,051  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:17,051  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:17,052  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:17,052  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:17,053  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:17,053  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:17,175  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:17,175  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:17,357  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:17,357  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:17,358  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:17,358  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:18,366  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:18,367  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:18,382  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:18,382  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:18,396  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:18,396  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:18,404  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:18,405  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:18,416  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:18,417  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:18,426  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:18,426  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:18,481  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:18,481  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:18,696  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:18,696  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:18,805  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:18,805  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:19,071  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:19,071  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:19,391  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:19,391  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:19,396  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:19,396  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:19,397  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:19,397  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:19,675  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:19,675  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:19,898  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:19,898  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:19,907  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:19,907  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:20,098  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:20,098  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:20,309  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:20,310  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:20,391  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:20,391  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:20,918  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:20,919  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:20,920  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:20,920  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:20,934  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:20,934  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:20,945  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:20,945  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:20,978  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:20,979  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:21,174  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:21,175  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:21,176  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:21,176  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:21,370  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:21,370  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:21,583  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:21,583  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:21,669  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:21,669  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:21,891  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:21,891  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:22,004  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:22,005  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:22,045  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:22,045  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:22,303  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:22,303  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:22,352  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:22,352  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:22,974  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:22,975  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:23,073  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:23,074  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:23,285  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:23,286  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:23,523  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:23,523  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:23,603  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:23,603  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:23,707  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:23,707  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:23,941  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:23,942  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:24,551  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:24,551  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:24,552  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:24,552  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:24,859  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:24,859  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:25,269  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:25,269  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:25,624  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:25,625  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:25,983  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:25,983  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:26,058  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:26,059  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:26,699  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:26,700  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:26,703  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:26,703  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:27,211  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:27,212  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:27,344  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:27,344  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:27,549  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:27,549  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:27,763  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:27,763  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:27,764  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:27,764  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:27,765  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:27,765  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:27,766  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:27,766  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:28,031  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:28,032  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:29,161  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:29,161  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:29,177  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:29,177  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:29,197  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:29,197  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:31,306  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:31,306  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:31,605  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:31,605  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:32,977  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:32,977  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:33,326  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:33,326  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:49:35,184  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f6955794bb0>>: 'float' object does not support item assignment
+2022-10-06 10:49:35,184  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:50:24,475  root  INFO :: Binance Futures Client successfully initialized
+2022-10-06 10:50:25,848  root  INFO :: Binance connection opened
+2022-10-06 10:50:25,849  websocket  WARNING :: websocket connected
+2022-10-06 10:50:27,179  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f8000ce7bb0>>: 'float' object does not support item assignment
+2022-10-06 10:50:27,180  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:50:27,426  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f8000ce7bb0>>: 'float' object does not support item assignment
+2022-10-06 10:50:27,427  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:50:28,112  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f8000ce7bb0>>: 'float' object does not support item assignment
+2022-10-06 10:50:28,112  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:50:33,118  websocket  ERROR :: error from callback <bound method BinanceFuturesClient.on_message of <binance_futures.BinanceFuturesClient object at 0x7f8000ce7bb0>>: 'float' object does not support item assignment
+2022-10-06 10:50:33,121  root  ERROR :: Binance connection error: 'float' object does not support item assignment
+2022-10-06 10:53:05,970  root  INFO :: Binance Futures Client successfully initialized
+2022-10-06 10:53:07,591  root  INFO :: Binance connection opened
+2022-10-06 10:53:07,592  websocket  WARNING :: websocket connected
+2022-10-06 10:53:44,080  root  INFO :: Binance Futures Client successfully initialized
+2022-10-06 10:53:45,371  root  INFO :: Binance connection opened
+2022-10-06 10:53:45,371  websocket  WARNING :: websocket connected
+2022-10-06 10:58:44,348  root  INFO :: Binance Futures Client successfully initialized
+2022-10-06 10:58:45,180  root  ERROR :: Error while making POST request to /fapi/v1/order: {'code': -1106, 'msg': "Parameter 'price' sent when not required."} (error code 400)
+2022-10-06 10:58:45,693  root  INFO :: Binance connection opened
+2022-10-06 10:58:45,693  websocket  WARNING :: websocket connected
+2022-10-06 12:23:01,756  root  INFO :: Binance Futures Client successfully initialized
+2022-10-06 12:23:02,946  root  INFO :: Binance connection opened
+2022-10-06 12:23:02,947  websocket  WARNING :: websocket connected
+2022-10-06 12:50:52,536  root  INFO :: Binance Futures Client successfully initialized
+2022-10-06 12:50:53,646  root  INFO :: Binance connection opened
+2022-10-06 12:50:53,646  websocket  WARNING :: websocket connected
+2022-10-06 12:53:06,218  root  INFO :: Binance Futures Client successfully initialized
+2022-10-06 12:53:07,627  root  INFO :: Binance connection opened
+2022-10-06 12:53:07,627  websocket  WARNING :: websocket connected
+2022-10-06 13:13:57,711  root  INFO :: Binance Futures Client successfully initialized
+2022-10-06 13:13:59,342  root  INFO :: Binance connection opened
+2022-10-06 13:13:59,342  websocket  WARNING :: websocket connected
+2022-10-06 14:14:09,320  root  INFO :: Binance Futures Client successfully initialized
+2022-10-06 14:14:10,148  root  ERROR :: Error while making POST request to /fapi/v1/order: {'code': -4006, 'msg': 'Stop price less than zero.'} (error code 400)
+2022-10-06 14:14:10,859  root  INFO :: Binance connection opened
+2022-10-06 14:14:10,860  websocket  WARNING :: websocket connected
+2022-10-06 17:25:34,647  root  INFO :: Binance Futures Client successfully initialized
+2022-10-06 17:25:35,807  root  INFO :: Binance connection opened
+2022-10-06 17:25:35,808  websocket  WARNING :: websocket connected
+2022-10-06 19:07:51,225  root  INFO :: Binance Futures Client successfully initialized
+2022-10-06 19:09:09,591  root  INFO :: Binance Futures Client successfully initialized
+2022-10-06 19:10:19,808  root  INFO :: Binance Futures Client successfully initialized
+2022-10-07 03:24:18,401  root  INFO :: Binance Futures Client successfully initialized
+2022-10-07 03:33:37,206  root  INFO :: Binance Futures Client successfully initialized
+2022-10-07 03:33:38,648  root  INFO :: Binance connection opened
+2022-10-07 03:33:38,649  websocket  WARNING :: websocket connected
+2022-10-07 03:33:38,943  websocket  ERROR :: error from callback <bound method BinanceFuturesClient._on_close of <binance_futures.BinanceFuturesClient object at 0x7fe66d5c6d00>>: _on_close() takes 2 positional arguments but 4 were given
+2022-10-07 03:33:38,943  root  ERROR :: Binance connection error: _on_close() takes 2 positional arguments but 4 were given
+2022-10-07 03:33:40,240  root  INFO :: Binance connection opened
+2022-10-07 03:33:40,241  websocket  WARNING :: websocket connected
+2022-10-07 03:33:40,534  websocket  ERROR :: error from callback <bound method BinanceFuturesClient._on_close of <binance_futures.BinanceFuturesClient object at 0x7fe66d5c6d00>>: _on_close() takes 2 positional arguments but 4 were given
+2022-10-07 03:33:40,534  root  ERROR :: Binance connection error: _on_close() takes 2 positional arguments but 4 were given
+2022-10-07 03:33:41,709  root  INFO :: Binance connection opened
+2022-10-07 03:33:41,711  websocket  WARNING :: websocket connected
+2022-10-07 03:33:42,054  websocket  ERROR :: error from callback <bound method BinanceFuturesClient._on_close of <binance_futures.BinanceFuturesClient object at 0x7fe66d5c6d00>>: _on_close() takes 2 positional arguments but 4 were given
+2022-10-07 03:33:42,054  root  ERROR :: Binance connection error: _on_close() takes 2 positional arguments but 4 were given
+2022-10-07 03:33:43,221  root  INFO :: Binance connection opened
+2022-10-07 03:33:43,223  websocket  WARNING :: websocket connected
+2022-10-07 03:33:43,541  websocket  ERROR :: error from callback <bound method BinanceFuturesClient._on_close of <binance_futures.BinanceFuturesClient object at 0x7fe66d5c6d00>>: _on_close() takes 2 positional arguments but 4 were given
+2022-10-07 03:33:43,542  root  ERROR :: Binance connection error: _on_close() takes 2 positional arguments but 4 were given
+2022-10-07 03:33:44,815  root  INFO :: Binance connection opened
+2022-10-07 03:33:44,815  websocket  WARNING :: websocket connected
+2022-10-07 03:33:45,123  websocket  ERROR :: error from callback <bound method BinanceFuturesClient._on_close of <binance_futures.BinanceFuturesClient object at 0x7fe66d5c6d00>>: _on_close() takes 2 positional arguments but 4 were given
+2022-10-07 03:33:45,123  root  ERROR :: Binance connection error: _on_close() takes 2 positional arguments but 4 were given
+2022-10-07 03:33:46,353  root  INFO :: Binance connection opened
+2022-10-07 03:33:46,354  websocket  WARNING :: websocket connected
+2022-10-07 03:33:46,658  websocket  ERROR :: error from callback <bound method BinanceFuturesClient._on_close of <binance_futures.BinanceFuturesClient object at 0x7fe66d5c6d00>>: _on_close() takes 2 positional arguments but 4 were given
+2022-10-07 03:33:46,659  root  ERROR :: Binance connection error: _on_close() takes 2 positional arguments but 4 were given
+2022-10-07 03:33:48,295  root  INFO :: Binance connection opened
+2022-10-07 03:33:48,296  websocket  WARNING :: websocket connected
+2022-10-07 03:33:48,580  websocket  ERROR :: error from callback <bound method BinanceFuturesClient._on_close of <binance_futures.BinanceFuturesClient object at 0x7fe66d5c6d00>>: _on_close() takes 2 positional arguments but 4 were given
+2022-10-07 03:33:48,580  root  ERROR :: Binance connection error: _on_close() takes 2 positional arguments but 4 were given
+2022-10-07 03:33:49,796  root  INFO :: Binance connection opened
+2022-10-07 03:33:49,796  websocket  WARNING :: websocket connected
+2022-10-07 03:33:50,143  websocket  ERROR :: error from callback <bound method BinanceFuturesClient._on_close of <binance_futures.BinanceFuturesClient object at 0x7fe66d5c6d00>>: _on_close() takes 2 positional arguments but 4 were given
+2022-10-07 03:33:50,143  root  ERROR :: Binance connection error: _on_close() takes 2 positional arguments but 4 were given
+2022-10-07 03:33:51,450  root  INFO :: Binance connection opened
+2022-10-07 03:33:51,450  websocket  WARNING :: websocket connected
+2022-10-07 03:33:51,773  websocket  ERROR :: error from callback <bound method BinanceFuturesClient._on_close of <binance_futures.BinanceFuturesClient object at 0x7fe66d5c6d00>>: _on_close() takes 2 positional arguments but 4 were given
+2022-10-07 03:33:51,773  root  ERROR :: Binance connection error: _on_close() takes 2 positional arguments but 4 were given
+2022-10-07 03:33:52,990  root  INFO :: Binance connection opened
+2022-10-07 03:33:52,990  websocket  WARNING :: websocket connected
+2022-10-07 03:33:53,310  websocket  ERROR :: error from callback <bound method BinanceFuturesClient._on_close of <binance_futures.BinanceFuturesClient object at 0x7fe66d5c6d00>>: _on_close() takes 2 positional arguments but 4 were given
+2022-10-07 03:33:53,311  root  ERROR :: Binance connection error: _on_close() takes 2 positional arguments but 4 were given
+2022-10-07 03:33:54,537  root  INFO :: Binance connection opened
+2022-10-07 03:33:54,537  websocket  WARNING :: websocket connected
+2022-10-07 03:33:54,843  websocket  ERROR :: error from callback <bound method BinanceFuturesClient._on_close of <binance_futures.BinanceFuturesClient object at 0x7fe66d5c6d00>>: _on_close() takes 2 positional arguments but 4 were given
+2022-10-07 03:33:54,843  root  ERROR :: Binance connection error: _on_close() takes 2 positional arguments but 4 were given
+2022-10-07 03:33:56,073  root  INFO :: Binance connection opened
+2022-10-07 03:33:56,073  websocket  WARNING :: websocket connected
+2022-10-07 03:33:56,392  websocket  ERROR :: error from callback <bound method BinanceFuturesClient._on_close of <binance_futures.BinanceFuturesClient object at 0x7fe66d5c6d00>>: _on_close() takes 2 positional arguments but 4 were given
+2022-10-07 03:33:56,392  root  ERROR :: Binance connection error: _on_close() takes 2 positional arguments but 4 were given
+2022-10-07 03:33:57,811  root  INFO :: Binance connection opened
+2022-10-07 03:33:57,811  websocket  WARNING :: websocket connected
+2022-10-07 03:33:58,103  websocket  ERROR :: error from callback <bound method BinanceFuturesClient._on_close of <binance_futures.BinanceFuturesClient object at 0x7fe66d5c6d00>>: _on_close() takes 2 positional arguments but 4 were given
+2022-10-07 03:33:58,103  root  ERROR :: Binance connection error: _on_close() takes 2 positional arguments but 4 were given
+2022-10-07 03:33:59,248  root  INFO :: Binance connection opened
+2022-10-07 03:33:59,250  websocket  WARNING :: websocket connected
+2022-10-07 03:33:59,517  websocket  ERROR :: error from callback <bound method BinanceFuturesClient._on_close of <binance_futures.BinanceFuturesClient object at 0x7fe66d5c6d00>>: _on_close() takes 2 positional arguments but 4 were given
+2022-10-07 03:33:59,517  root  ERROR :: Binance connection error: _on_close() takes 2 positional arguments but 4 were given
+2022-10-07 03:34:00,861  root  INFO :: Binance connection opened
+2022-10-07 03:34:00,862  websocket  WARNING :: websocket connected
+2022-10-07 03:34:01,189  websocket  ERROR :: error from callback <bound method BinanceFuturesClient._on_close of <binance_futures.BinanceFuturesClient object at 0x7fe66d5c6d00>>: _on_close() takes 2 positional arguments but 4 were given
+2022-10-07 03:34:01,189  root  ERROR :: Binance connection error: _on_close() takes 2 positional arguments but 4 were given
+2022-10-07 03:34:02,418  root  INFO :: Binance connection opened
+2022-10-07 03:34:02,419  websocket  WARNING :: websocket connected
+2022-10-07 03:34:02,726  websocket  ERROR :: error from callback <bound method BinanceFuturesClient._on_close of <binance_futures.BinanceFuturesClient object at 0x7fe66d5c6d00>>: _on_close() takes 2 positional arguments but 4 were given
+2022-10-07 03:34:02,727  root  ERROR :: Binance connection error: _on_close() takes 2 positional arguments but 4 were given
+2022-10-07 03:34:03,851  root  INFO :: Binance connection opened
+2022-10-07 03:34:03,852  websocket  WARNING :: websocket connected
+2022-10-07 03:34:04,119  websocket  ERROR :: error from callback <bound method BinanceFuturesClient._on_close of <binance_futures.BinanceFuturesClient object at 0x7fe66d5c6d00>>: _on_close() takes 2 positional arguments but 4 were given
+2022-10-07 03:34:04,120  root  ERROR :: Binance connection error: _on_close() takes 2 positional arguments but 4 were given
+2022-10-07 03:34:05,385  root  INFO :: Binance connection opened
+2022-10-07 03:34:05,387  websocket  WARNING :: websocket connected
+2022-10-07 03:34:05,691  websocket  ERROR :: error from callback <bound method BinanceFuturesClient._on_close of <binance_futures.BinanceFuturesClient object at 0x7fe66d5c6d00>>: _on_close() takes 2 positional arguments but 4 were given
+2022-10-07 03:34:05,692  root  ERROR :: Binance connection error: _on_close() takes 2 positional arguments but 4 were given
+2022-10-07 03:34:07,119  root  INFO :: Binance connection opened
+2022-10-07 03:34:07,120  websocket  WARNING :: websocket connected
+2022-10-07 03:34:07,451  websocket  ERROR :: error from callback <bound method BinanceFuturesClient._on_close of <binance_futures.BinanceFuturesClient object at 0x7fe66d5c6d00>>: _on_close() takes 2 positional arguments but 4 were given
+2022-10-07 03:34:07,452  root  ERROR :: Binance connection error: _on_close() takes 2 positional arguments but 4 were given
+2022-10-07 03:36:24,707  root  INFO :: Binance Futures Client successfully initialized
+2022-10-07 03:36:26,412  root  INFO :: Binance connection opened
+2022-10-07 03:36:26,412  websocket  WARNING :: websocket connected
+2022-10-07 03:36:26,689  websocket  ERROR :: error from callback <bound method BinanceFuturesClient._on_close of <binance_futures.BinanceFuturesClient object at 0x7f7b2cad5d00>>: _on_close() takes 2 positional arguments but 4 were given
+2022-10-07 03:36:26,689  root  ERROR :: Binance connection error: _on_close() takes 2 positional arguments but 4 were given
+2022-10-07 03:36:28,066  root  INFO :: Binance connection opened
+2022-10-07 03:36:28,067  websocket  WARNING :: websocket connected
+2022-10-07 03:36:28,408  websocket  ERROR :: error from callback <bound method BinanceFuturesClient._on_close of <binance_futures.BinanceFuturesClient object at 0x7f7b2cad5d00>>: _on_close() takes 2 positional arguments but 4 were given
+2022-10-07 03:36:28,408  root  ERROR :: Binance connection error: _on_close() takes 2 positional arguments but 4 were given
+2022-10-07 03:36:29,952  root  INFO :: Binance connection opened
+2022-10-07 03:36:29,952  websocket  WARNING :: websocket connected
+2022-10-07 03:36:30,297  websocket  ERROR :: error from callback <bound method BinanceFuturesClient._on_close of <binance_futures.BinanceFuturesClient object at 0x7f7b2cad5d00>>: _on_close() takes 2 positional arguments but 4 were given
+2022-10-07 03:36:30,297  root  ERROR :: Binance connection error: _on_close() takes 2 positional arguments but 4 were given
+2022-10-07 03:36:31,731  root  INFO :: Binance connection opened
+2022-10-07 03:36:31,731  websocket  WARNING :: websocket connected
+2022-10-07 03:36:32,097  websocket  ERROR :: error from callback <bound method BinanceFuturesClient._on_close of <binance_futures.BinanceFuturesClient object at 0x7f7b2cad5d00>>: _on_close() takes 2 positional arguments but 4 were given
+2022-10-07 03:36:32,098  root  ERROR :: Binance connection error: _on_close() takes 2 positional arguments but 4 were given
+2022-10-07 03:36:33,725  root  INFO :: Binance connection opened
+2022-10-07 03:36:33,726  websocket  WARNING :: websocket connected
+2022-10-07 03:36:34,148  websocket  ERROR :: error from callback <bound method BinanceFuturesClient._on_close of <binance_futures.BinanceFuturesClient object at 0x7f7b2cad5d00>>: _on_close() takes 2 positional arguments but 4 were given
+2022-10-07 03:36:34,148  root  ERROR :: Binance connection error: _on_close() takes 2 positional arguments but 4 were given
+2022-10-07 03:36:35,998  root  INFO :: Binance connection opened
+2022-10-07 03:36:35,999  websocket  WARNING :: websocket connected
+2022-10-07 03:36:36,381  websocket  ERROR :: error from callback <bound method BinanceFuturesClient._on_close of <binance_futures.BinanceFuturesClient object at 0x7f7b2cad5d00>>: _on_close() takes 2 positional arguments but 4 were given
+2022-10-07 03:36:36,382  root  ERROR :: Binance connection error: _on_close() takes 2 positional arguments but 4 were given
+2022-10-07 03:36:37,927  root  INFO :: Binance connection opened
+2022-10-07 03:36:37,928  websocket  WARNING :: websocket connected
+2022-10-07 03:36:38,238  websocket  ERROR :: error from callback <bound method BinanceFuturesClient._on_close of <binance_futures.BinanceFuturesClient object at 0x7f7b2cad5d00>>: _on_close() takes 2 positional arguments but 4 were given
+2022-10-07 03:36:38,238  root  ERROR :: Binance connection error: _on_close() takes 2 positional arguments but 4 were given
+2022-10-07 03:42:18,050  root  INFO :: Binance Futures Client successfully initialized
+2022-10-07 03:42:19,261  root  INFO :: Binance connection opened
+2022-10-07 03:42:19,262  websocket  ERROR :: error from callback <bound method BinanceFuturesClient._on_open of <binance_futures.BinanceFuturesClient object at 0x7fd2879f8d30>>: 'BinanceFuturesClient' object has no attribute 'ws_subscriptions'
+2022-10-07 03:42:19,262  root  ERROR :: Binance connection error: 'BinanceFuturesClient' object has no attribute 'ws_subscriptions'
+2022-10-07 03:42:19,262  websocket  WARNING :: websocket connected
+2022-10-07 03:45:44,146  root  INFO :: Binance Futures Client successfully initialized
+2022-10-07 03:45:45,422  root  INFO :: Binance connection opened
+2022-10-07 03:45:45,423  websocket  WARNING :: websocket connected
+2022-10-07 03:45:45,705  websocket  ERROR :: error from callback <bound method BinanceFuturesClient._on_close of <binance_futures.BinanceFuturesClient object at 0x7f2f6bfbfd30>>: _on_close() takes 2 positional arguments but 4 were given
+2022-10-07 03:45:45,705  root  ERROR :: Binance connection error: _on_close() takes 2 positional arguments but 4 were given
+2022-10-07 03:45:46,919  root  INFO :: Binance connection opened
+2022-10-07 03:45:46,919  websocket  WARNING :: websocket connected
+2022-10-07 03:51:21,667  root  INFO :: Binance Futures Client successfully initialized
+2022-10-07 03:51:22,859  root  INFO :: Binance connection opened
+2022-10-07 03:51:22,859  websocket  WARNING :: websocket connected
+2022-10-07 05:26:12,273  root  INFO :: Binance Futures Client successfully initialized
+2022-10-07 05:26:13,510  root  INFO :: Binance connection opened
+2022-10-07 05:26:13,510  websocket  WARNING :: websocket connected
+2022-10-07 09:43:28,125  root  INFO :: Binance Futures Client successfully initialized
+2022-10-07 09:43:29,546  root  INFO :: Binance connection opened
+2022-10-07 09:43:29,547  websocket  WARNING :: websocket connected
+2022-10-07 10:10:07,304  root  INFO :: Binance Futures Client successfully initialized
+2022-10-07 10:10:08,681  root  INFO :: Binance connection opened
+2022-10-07 10:10:08,682  websocket  WARNING :: websocket connected
+2022-10-07 14:18:55,639  root  INFO :: Binance Futures Client successfully initialized
+2022-10-07 14:18:57,128  root  INFO :: Binance connection opened
+2022-10-07 14:18:57,129  websocket  WARNING :: websocket connected
+2022-10-07 14:19:56,748  root  INFO :: Binance Futures Client successfully initialized
+2022-10-07 14:19:58,142  root  INFO :: Binance connection opened
+2022-10-07 14:19:58,143  websocket  WARNING :: websocket connected
+2022-10-07 14:21:37,957  root  INFO :: Binance Futures Client successfully initialized
+2022-10-07 14:21:39,403  root  INFO :: Binance connection opened
+2022-10-07 14:21:39,404  websocket  WARNING :: websocket connected
+2022-10-07 14:24:24,651  root  INFO :: Binance Futures Client successfully initialized
+2022-10-07 14:24:26,182  root  INFO :: Binance connection opened
+2022-10-07 14:24:26,182  websocket  WARNING :: websocket connected
+2022-10-07 14:27:23,219  root  INFO :: Binance Futures Client successfully initialized
+2022-10-07 14:27:24,658  root  INFO :: Binance connection opened
+2022-10-07 14:27:24,659  websocket  WARNING :: websocket connected
+2022-10-07 14:32:11,318  root  INFO :: Binance Futures Client successfully initialized
+2022-10-07 14:32:13,139  root  INFO :: Binance connection opened
+2022-10-07 14:32:13,140  websocket  WARNING :: websocket connected
+2022-10-07 14:35:18,083  root  INFO :: Binance Futures Client successfully initialized
+2022-10-07 14:35:19,575  root  INFO :: Binance connection opened
+2022-10-07 14:35:19,576  websocket  WARNING :: websocket connected
+2022-10-07 15:16:53,201  root  INFO :: Binance Futures Client successfully initialized
+2022-10-07 15:16:54,861  root  INFO :: Binance connection opened
+2022-10-07 15:16:54,862  websocket  WARNING :: websocket connected
+2022-10-07 15:18:06,966  root  INFO :: Binance Futures Client successfully initialized
+2022-10-07 15:18:08,594  root  INFO :: Binance connection opened
+2022-10-07 15:18:08,595  websocket  WARNING :: websocket connected
+2022-10-07 15:21:05,267  root  INFO :: Binance Futures Client successfully initialized
+2022-10-07 15:21:06,698  root  INFO :: Binance connection opened
+2022-10-07 15:21:06,699  websocket  WARNING :: websocket connected
+2022-10-07 15:44:14,216  root  INFO :: Binance Futures Client successfully initialized
+2022-10-07 15:44:20,454  root  INFO :: Binance connection opened
+2022-10-07 15:44:20,458  websocket  WARNING :: websocket connected
+2022-10-07 16:25:02,731  root  INFO :: Binance Futures Client successfully initialized
+2022-10-07 16:25:04,400  root  INFO :: Binance connection opened
+2022-10-07 16:25:04,401  websocket  WARNING :: websocket connected
+2022-10-08 11:19:49,321  root  INFO :: Binance Futures Client successfully initialized
+2022-10-08 11:19:50,899  root  INFO :: Binance connection opened
+2022-10-08 11:19:50,899  websocket  WARNING :: websocket connected
